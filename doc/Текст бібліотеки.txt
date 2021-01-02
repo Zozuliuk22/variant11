@@ -3,7 +3,7 @@ using System.Collections.Generic; //бібліотека щоб юзати списки List
 
 namespace MyFunctions
 {
-    public class Func
+    public class Func //класс функции
     {
         public static int GetNumber(string text) //введення числа користувачем
         {
