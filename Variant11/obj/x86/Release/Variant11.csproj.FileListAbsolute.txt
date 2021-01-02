@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\Variant11\Variant11\bin\Release\Variant11.exe
+C:\Users\user\Desktop\Variant11\Variant11\bin\Release\Variant11.pdb
+C:\Users\user\Desktop\Variant11\Variant11\obj\x86\Release\Variant11.exe
+C:\Users\user\Desktop\Variant11\Variant11\obj\x86\Release\Variant11.pdb

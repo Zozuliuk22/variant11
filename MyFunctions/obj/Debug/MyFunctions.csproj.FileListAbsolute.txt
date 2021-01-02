@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\Variant11\MyFunctions\bin\Debug\MyFunctions.dll
+C:\Users\user\Desktop\Variant11\MyFunctions\bin\Debug\MyFunctions.pdb
+C:\Users\user\Desktop\Variant11\MyFunctions\obj\Debug\MyFunctions.dll
+C:\Users\user\Desktop\Variant11\MyFunctions\obj\Debug\MyFunctions.pdb
